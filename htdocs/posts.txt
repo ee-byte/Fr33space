@@ -1,0 +1,57 @@
+1|1763431347|ligma|0
+2|1763431352|balls|1
+3|1763431469|balls|1
+4|1763431493|hello world|0
+5|1763431500|hello user|4
+6|1763431836|hello user|4
+7|1763432092|hello user|4
+8|1763432139|hello user|4
+9|1763432367|hello user|4
+10|1763432509|hello user|4
+11|1763433355|ee|4
+12|1763433404|piss|0
+1763515671|Admin|Testing from mobile|0
+1763516567|the_g|testing if user info on this account works, also excuse the previous test posts|0
+1763516583|the_g|hello world|13
+1763516640|the_g|damn this project is old, started at midnight January 1st 1970, crazy|4
+1763517291|the_g|testing if user info on this account works, also excuse the previous test posts|0
+1781034153|the_g|test|0
+1781041417|Shhhh|My favorite hobby is testicular torsion|0
+1781041571|the_g|amazing (:O|19
+1781042192|Admin|ANNOUNCEMENT: Website is officially up and running!<br>Thats right, the one and only Admin actually did something,<br>the site is now OFF the 22 year old Dell it once was on and<br>ON a new(er) and shiny(er) dedicated(ish) server!<br>(by dedicated server, I mean the 15 year old EPC that I stole from @Shhhh)|0
+1781043836|smith|@landon from CyberSpace here.|0
+1781044250|7spires|&lt;h3&gt;Nice board, but does it have security features?&lt;/h3&gt;|0
+1781044302|7spires|It does! How delightful.|23
+1781044310|7spires|It does! How delightful.|23
+1781044356|7spires|It does! How delightful.|23
+1781046607|Exqrcism.444|If your grandma was born on the ceiling and you just walked your fish, what color is the number F?<br><br>-Ex.444|0
+1781046632|Admin|Just what OpenBSD does for me lol, idk shii about cybersecurity aside from BSD good and so is https|23
+1781046754|Exqrcism.444|Same|19
+1781046760|Admin|High sulfur diesel, because plums aren&#039;t crunchy.|27
+1781049458|the_g|Wazzzaaaaap|22
+
+1781154649|Admin|Testing from 4:3 laptop.|0
+1782777379|Admin|ANNOUNCEMENT!!!<br>At some point 07/05/2026 (TBD) there will be a map wide, double layer spleef battle on the Classicube server!|0
+1782777778|Admin|5pm CST 07/05/2026|0
+1783292745|Tofi_Toffee|Testing from Fedora Linux 44.|0
+1783292750|Tofi_Toffee|Testing from Fedora Linux 44.|0
+1783292775|1234|replying from an account that no longer exists|35
+1783296598|Admin|testing if posts duplicate|0
+1783296608|Admin|t3st|38
+1783330425|dawidg81|Hello. That&#039;s cool website. phping. cool spleef yesterday besides my terrible network connection.|0
+1783622857|the_g|Just remembered how much better this place looks in 4:3,<br>Also, should I;<br>A: Keep user profiles as they are currently? (only editable by me, made via request)<br>B: Make an interface for users to edit their photo and description and nothing else.<br>C: Make the whole page editable in the sense that users will simply type HTML, thus allowing for unlimited customization.<br>I&#039;m honestly for A or C, A because I don&#039;t have to do anything, C because it&#039;d be neat to see what ppl make.|0
+1783735264|piki|message board|0
+1783739944|the_g|Indeed|42
+1783750775|the_g|Im currently listening to music on an Altoids tin radio that I made on a pirate radio station that I&#039;m broadcasting from a transmitter I made out of ONLY a piece of plywood, duct tape, a nickel, a rubber band, 4 AAs, a doorbell transformer, 1Mhz crystal oscillator, a spring and like 5 screws I had in a drawer.<br><br>If you wanna tune in, go to 1000KHz AM inside my bedroom and maybe outside my window too. (short anntenna)|0
+1784003316|NukeCoderX|Hello everyone! I came here from Cyberspace, and i figured &quot;yay, a new place to yap about my deck!&quot;|0
+1784003362|NukeCoderX|What is : The Battle of Waterloo?|27
+1784012430|Admin|Welcome! Lemme know if you&#039;d like a profile page and what you&#039;d like it to be. (see post 2 below this)<br>Would love to hear abt your deck.|45
+1784090371|Zorelian|W site|0
+1784245168|the_g|W user (sent from flip phone|48
+1784519327|skel101|hello world|0
+1784519366|skel101|how are these messages and user accounts stored? a db of some sort?|0
+1784520800|the_g|Just an encrypted file for passwords and usernames and a non-encrypted one for messages.|51
+1784535044|Admin|ANNOUNCEMENT!<br>v0.20 Of Fr33space is now out,<br>Changes include:<br>Fully customizable profiles.<br>Fucking with fonts<br>Got rid of the anarchy page for now in favor of a Cyberspace button.|0
+1784545834|First_Triad|Hello World!<br>Another newcomer from Cyberspace here|0
+1784563637|the_g|Welcome! Just made your profile page, just go to First_Triad.php|54
+1784698182|test|testing from w3m browser|0
